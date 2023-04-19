@@ -1,7 +1,4 @@
-# lab-10-clinardos
-
-
-## lab-10-
+# Lab 10 - Caitlin Linardos
 ### [Link](https://editor.p5js.org/clinardos/full/Pdk0ar4nC)
 
 #### Task of Lab 10:
